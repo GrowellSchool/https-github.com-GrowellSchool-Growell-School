@@ -6,6 +6,6 @@ cd Growell-School
 git add .
 git commit -m "Add website files"
 git push origin main
-git remote add origin https://github.com/YOUR-USERNAME/REPO-NAME.git
+git remote add origin https://github.com/Growellschoolgithub.io/GROWELL-SCHOOL.git
 git branch -M main
 git push -u origin main
